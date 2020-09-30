@@ -1,0 +1,10 @@
+ja:
+  datetime:
+    distance_in_words:
+      less_than_x_minutes:
+        one:   "1分"
+        other: "%{count}分"
+      x_minutes:
+        one:   "1分"
+        other: "%{count}分"
+      
